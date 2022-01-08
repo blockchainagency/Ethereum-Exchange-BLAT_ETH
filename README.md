@@ -1,2 +1,1 @@
-# Ethereum-Exchange-BLAT_ETH
-Ethereum token exchange.
+Ethereum token exchange for BLAT token.
